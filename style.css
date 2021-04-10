@@ -1,0 +1,93 @@
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    width: 20%;
+    margin-left: auto;
+}
+
+nav a {
+    color: black;
+    text-decoration: none;
+}
+
+nav img {
+    height: 20px;
+}
+
+main {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+input {
+    width: 80%;
+    padding: 1em;
+    border-radius: 30px;
+    border: 1px solid grey;
+}
+
+#search-icon {
+	width: 25px;
+	position: relative;
+	left: -545px;
+	top: 10px;
+}
+
+#microphone-icon {
+	width: 25px;
+	position: relative;
+	left: -70px;
+	top: 15px;
+}
+
+.btn_container {
+    margin-top: 20px;
+}
+
+.btn_container button {
+    padding: 1em;
+    border: none;
+    border-radius: 5px;
+    margin-left: 5px;
+}
+
+main a {
+    text-decoration: none;
+    margin: 3px;
+}
+
+main p {
+    font-size: small;
+    margin-top: 30px;
+}
+
+.footer {
+    background-color: rgba(211, 211, 211, 0.192);
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 5rem;
+    
+}
+
+#country_name {
+    margin-left: 15px;
+}
+
+.footer a {
+    text-decoration: none;
+    color: black;
+    margin: 15px;
+    
+}
+
+.footer-links {
+	display: flex;
+	justify-content: space-between;
+}
+
+.links-2 {
+	text-align: center;
+}
